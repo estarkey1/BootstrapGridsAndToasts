@@ -1,0 +1,20 @@
+body {
+    font-family: 'Fjalla One', sans-serif;
+  }
+
+.shadow {
+    box-shadow: 100px 100px 100px #343a40;
+}
+
+.flextest div {
+  -ms-flex: 1;  /* IE 10 */  
+  flex: 2;
+}
+
+/* div {
+  display: flex;
+} */
+
+.info {
+  display: flex;
+}
